@@ -1,3 +1,8 @@
+# A huge thanks to James Grimshaw for his perfect video "Build a Notes App with React.js"
+https://www.youtube.com/watch?v=ulOKYl5sHGk
+https://github.com/jrgrimshaw/notes-app-tutoria
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
